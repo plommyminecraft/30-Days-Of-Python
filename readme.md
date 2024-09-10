@@ -118,11 +118,9 @@ Python is used by various industries and companies (including Google). It has be
 ## Environment Setup
 
 > [!IMPORTANT]
-> You don't need to install Python or VSCode, so skip over the crossed out instructions, and instead just click this one of these buttons:
+> You don't need to install Python or VSCode, so skip over the crossed out instructions, and instead just click this button:
 >
-> [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jollytoad/30-Days-Of-Python)
-> 
-> [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jollytoad/30-Days-Of-Python)
+> [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io?autostart=true#https://github.com/jollytoad/30-Days-Of-Python)
 >
 > You may need to sign up or sign in to GitHub first, and then you'll
 > end up in a VSCode environment.
