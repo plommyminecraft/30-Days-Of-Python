@@ -117,18 +117,31 @@ Python is used by various industries and companies (including Google). It has be
 
 ## Environment Setup
 
-### Installing Python
+> [!IMPORTANT]
+> You don't need to install Python or VSCode, so skip over the crossed out instructions, and instead just click this one of these buttons:
+>
+> [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jollytoad/30-Days-Of-Python)
+> 
+> [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jollytoad/30-Days-Of-Python)
+>
+> You may need to sign up or sign in to GitHub first, and then you'll
+> end up in a VSCode environment.
 
-To run a python script you need to install python. Let's [download](https://www.python.org/) python.
-If your are a windows user. Click the button encircled in red.
+### ~~Installing Python~~
+
+~~To run a python script you need to install python. Let's [download](https://www.python.org/) python.
+If your are a windows user. Click the button encircled in red.~~
 
 [![installing on Windows](./images/installing_on_windows.png)](https://www.python.org/)
 
-If you are a macOS user. Click the button encircled in red.
+~~If you are a macOS user. Click the button encircled in red.~~
 
 [![installing on Windows](./images/installing_on_macOS.png)](https://www.python.org/)
 
 To check if python is installed write the following command on your device terminal.
+
+> [!NOTE]
+> The terminal will already be available to you in the bottom panel of the online VSCode environment.
 
 ```shell
 python --version
@@ -210,9 +223,9 @@ Before we move on to the next section, let us practice more on the Python intera
 
 ![Writing String on python shell](./images/writing_string_on_shell.png)
 
-### Installing Visual Studio Code
+### ~~Installing Visual Studio Code~~
 
-The Python interactive shell is good to try and test small script codes but it will not be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of Python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
+The Python interactive shell is good to try and test small script codes but it will not be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of Python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode ~~and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.~~
 
 [![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
 
@@ -221,11 +234,11 @@ If you prefer a video, you can follow this Visual Studio Code for Python [Video 
 
 #### How to use visual studio code
 
-Open the visual studio code by double clicking the visual studio icon. When you open it you will get this kind of interface. Try to interact with the labeled icons.
+~~Open the visual studio code by double clicking the visual studio icon. When you open it you will get this kind of interface. Try to interact with the labeled icons.~~
 
 ![Visual studio Code](./images/vscode_ui.png)
 
-Create a folder named 30DaysOfPython on your desktop. Then open it using visual studio code.
+~~Create a folder named 30DaysOfPython on your desktop. Then open it using visual studio code.~~
 
 ![Opening Project on Visual studio](./images/how_to_open_project_on_vscode.png)
 
